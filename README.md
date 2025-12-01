@@ -22,7 +22,7 @@
 ---
 
 - 👨‍💻 Software Engineer especializado en Backend, Cloud y DevOps.
-- 🧱 Diseño y desarrollo de APIs REST/GraphQL, WebSockets y sistemas en tiempo real.
+- 🧱 Diseño y desarrollo de APIs REST, WebSockets y sistemas en tiempo real.
 - ☁️ Experiencia desplegando en VPS, Nginx, Docker, AWS y S3.
 - 🚀 Founder & CTO @ Arxatec, convirtiendo ideas en productos listos para producción.
 
@@ -42,7 +42,6 @@
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 
 #### 🗄️ Databases & Messaging
 
