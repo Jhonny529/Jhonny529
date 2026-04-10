@@ -19,7 +19,7 @@
   <a href="https://github.com/Jhonny529">
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-Jhonny529-121011?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="[https://jhonny-portfolio.vercel.app](https://jhonny-portfolio-seven.vercel.app/es/)">
+  <a href="https://jhonny-portfolio-seven.vercel.app/">
     <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Live-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
