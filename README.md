@@ -16,25 +16,22 @@
   <a href="https://www.linkedin.com/in/jhonny-sanes/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-jhonny--sanes-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/jhonnysanes">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-jhonnysanes-121011?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://github.com/Jhonny529">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-Jhonny529-121011?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <!-- Enable this when your portfolio is ready -->
-  <!--
-  <a href="https://your-portfolio.vercel.app">
-    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <a href="https://jhonny-portfolio.vercel.app">
+    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Live-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-  -->
 </p>
 
 ---
 
 ## About me
 
-- Backend engineer focused on scalable APIs, real-time systems, and production-ready services.
-- Co-Founder & CTO at Arxatec, leading technical decisions across backend, architecture, infrastructure, and deployment.
-- Strong interest in building systems that are clear, maintainable, secure, and ready to grow.
-- Comfortable working across software architecture, cloud environments, reverse proxies, Docker-based workflows, and service integrations.
+- Backend engineer focused on scalable APIs, maintainable systems, and production-ready services.
+- Co-Founder & CTO at Arxatec, leading backend architecture, infrastructure decisions, and technical execution.
+- Comfortable working across system design, cloud-connected workflows, reverse proxies, Docker-based environments, and service integrations.
+- Interested in building software that is clear, scalable, secure, and operationally reliable.
 
 ---
 
@@ -68,23 +65,12 @@
 
 ---
 
-## What I work on
+## Current focus
 
-- Scalable backend platforms
-- REST APIs and service integrations
-- Real-time features and event-driven flows
-- Cloud deployment and VPS environments
-- Reverse proxy and production infrastructure
-- Maintainable software architecture
-
----
-
-## Links
-
-- **Email:** `jhonny-529@outlook.com`
-- **LinkedIn:** `linkedin.com/in/jhonny-sanes`
-- **GitHub:** `github.com/jhonnysanes`
-- **Portfolio:** coming soon
+- Backend platforms
+- Scalable APIs and service integration
+- Production-ready infrastructure
+- Software architecture and technical leadership
 
 ---
 
