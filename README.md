@@ -1,5 +1,5 @@
 <div align="center">
-  <img alt="" width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=gradient&reversal=true" />
+  <img alt="" width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=70&color=gradient&reversal=true" />
 </div>
 
 <h2 align="center">Jhonny Arturo Sanes Valdivia</h2>
